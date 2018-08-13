@@ -24,3 +24,25 @@ Para aprender Julia, ver los videos y tutoriales en
 
 https://julialang.org/learning/
 
+
+## Instrucciones para clonar el repositorio
+
+- Si usas Windows, baja git-bash: https://gitforwindows.org/
+
+- Usando la terminal, cambia a algún directorio de tu máquina y pon
+
+  `git clone https://github.com/dpsanders/FisicaComputacional2019_1.git`
+  
+- Abres el notebook dentro de Julia
+  - `using IJulia`
+  - `notebook()`
+  
+- Haces una copia del notebook
+
+Cuando quieras actualizar con las novedades:
+
+  `git pull`
+
+
+
+
