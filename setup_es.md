@@ -1,38 +1,38 @@
-## Running Julia online: JuliaBox
-The easiest way to start using Julia is via the online [JuliaBox](http://www.juliabox.com) service.
-This provides an online version of the [Jupyter notebook](http://www.jupyter.org), which we will be using throughout. Use `Shift-Enter` to execute a cell.
+## Correr Julia en linea: JuliaBox
+La forma más fácil de correr Julia es en línea usando el servicio [JuliaBox](http://www.juliabox.com).
+Este provee una versión en línea de una [Jupyter notebook](http://www.jupyter.org), que se usara durante el curso. Se usa `Shift-Enter` para ejecutar una celda.
 
-An alternative is [CoCalc](http://www.cocalc.com), which allows simultaneous editing of notebooks by several people.
+Una alternativa es [CoCalc](http://www.cocalc.com), que permite la edición simultanea de las notebooks por distintas personas.
 
-## Installing Julia and Jupyter locally
-To install Julia and Jupyter locally on your own machine, do the following.
+## Instalar Julia y Jupyter localmente
+Para instalar Julia y Jupyter localmente en sus computadoras se siguen los siguientes pasos.
 
-[Note that it is *not* necessary to install Anaconda separately; Julia will do this automatically for you.]
+[Nota que *no* es necesario instalar Anaconda de manera separada; Julia hará esto por ti.]
 
-1. Download and install the stable version of Julia (0.6.3) from [here](http://www.julialang.org/downloads) for your operating system.
+1. Descarga e instala la versión estable de Julia (0.6.3) de [aqui](http://www.julialang.org/downloads) para el sistema operativo que uses.
 
-2. Run the copy of Julia that you just installed.
+2. Corre la copia de Julia que instalaste.
 
-    Execute the following commands within the Julia terminal ("REPL") environment, where you will see a `julia> ` prompt.
+    Ejecuta los siguientes comandos en la teminal del entorno de Julia ("REPL"), en donde veras un `julia> `.
 
-3. If you use Linux, first type:
+3. Si usas Linux, primero teclea:
 ```jl
 julia> ENV["JUPYTER"] = ""
 ```
 
-4. Now install the IJulia package, which will automatically install Jupyter (using `miniconda`):
+4. Ahora instala el paquete IJulia, que automáticamente instalará Jupyter (usando `miniconda`):
 ```
 julia> Pkg.add("IJulia")
 ```
 
-5. Open the notebook as follows.
+5. Abre la libreta como sigue.
 ```jl
 julia> using IJulia
 julia> notebook()
 ```
-By default, new notebooks will be created in your home directory. Navigate to a different directory to save them in your preferred location.
+Por default, notebooks nuevas seran creadas en tu directorio principal. Abre o crea una carpeta diferente de tu preferencia para guardarlos en la locación de tu elección.
 
-6. Install some of the packages that we will use during the course (you will need an internet connection):
+6. Instala algunos otros paquetes que usaremos durante el curso (Necesitaras una conexión a Internet):
 ```jl
 julia> packages = split(
     """Plots GR PlotlyJS Interact
@@ -49,24 +49,24 @@ julia> for package in packages
     Pkg.add(package)
 end
 ```
-## Get up to speed with basic Julia syntax
+## Poniendose al día con la sintaxis básica de Julia
 
-If you have had little exposure to Julia, please work through [this video tutorial](https://youtu.be/4igzy3bGVkQ) to get up to speed with basic Julia syntax, in particular the notebooks 1 through 8 (up to and including "Plotting"). The notebooks are available directly in JuliaBox, or [here](https://github.com/JuliaComputing/JuliaBoxTutorials/tree/master/intro-to-julia).
+Si no has tenido un acercamiento a Julia, puedes usar [este video turorial](https://youtu.be/4igzy3bGVkQ) para ponerte al día con la sintaxis basica de Julia, en particular las notebooks del 1 al 8 (incluyendo "Plotting"). Las libretas estas disponibles directamente en JuliaBox o [aqui](https://github.com/JuliaComputing/JuliaBoxTutorials/tree/master/intro-to-julia).
 
-We suggest that you bookmark, download or even print out the following two "cheat sheets" with summaries of basic Julia syntax:
-- a [one-page summary by Steven Johnson](https://github.com/stevengj/1806/blob/master/julia/Julia-cheatsheet.pdf)
+Sugerimos que añadas a favoritos, descargues o incluso imprimas los siguientes "acordeones" que resume la sintaxis basica de Julia:
+- A [one-page summary by Steven Johnson](https://github.com/stevengj/1806/blob/master/julia/Julia-cheatsheet.pdf)
 
-- a [more extensive summary](https://juliadocs.github.io/Julia-Cheat-Sheet)
+- A [more extensive summary](https://juliadocs.github.io/Julia-Cheat-Sheet)
 
-There is an ever-growing list of resources for learning Julia available on the [learning page](http://www.julialang.org/learning) of the Julia homepage; in particular, check out the [QuantEcon lectures](https://lectures.quantecon.org/jl).
+Existe una siempre creciente lista de recursos para aprender Julia disponibles en la [learning page](http://www.julialang.org/learning) de Julia; en particular revisa [QuantEcon lectures](https://lectures.quantecon.org/jl).
 
 
 ## Julia IDE: Juno
 
-There are two IDEs (Integrated Development Environments) available for Julia: Juno, based on the [Atom editor](https://atom.io/), and a Julia plug-in for the Visual Studio Code editor.
+Existen dos IDEs (Integrated Development Environments) disponibles para Julia: Juno, basada en el editor de texto [Atom](https://atom.io/), y una extensión de Julia para el editor Visual Studio Code.
 
-Please download Atom and install the `uber-juno` package; this will give you a Julia development environment. More info is available at the [Juno IDE homepage](http://junolab.org/).
+Descargue Atom e instale el paqeute `uber-juno`; Esto te dara un entorno de desarrollador de Julia. Más información disponible en [Juno IDE homepage](http://junolab.org/).
 
 
-## Questions and comments
-Please contact  [David](dpsanders@ciencias.unam.mx) if you have any further questions and comments
+## Preguntas y Comentarios
+Por favor contactar a [David](dpsanders@ciencias.unam.mx) si tienes alguna duda o comentario.
