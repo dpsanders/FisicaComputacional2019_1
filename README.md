@@ -12,6 +12,8 @@ La mayoría de los notebooks se entregarán como tareas.
 
 Evaluación: 50% tareas; 30% exámenes (probablemente tarea-examen); 20% proyecto final.
 
+Pueden consultar las calificaciones de sus tareas en https://docs.google.com/spreadsheets/d/1euiucRds_oSe0I14O2XghgPl1VTe50vYXZ0T00ZJdRo/edit?usp=sharing conforme sean calificadas. Buscar a los ayudantes para cualquier aclaración.
+
 ## Bibliografía
 
 Se recomiendan ampliamente los libros:
