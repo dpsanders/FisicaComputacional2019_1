@@ -14,6 +14,16 @@ Evaluación: 50% tareas; 30% exámenes (probablemente tarea-examen); 20% proyect
 
 Pueden consultar las calificaciones de sus tareas en https://docs.google.com/spreadsheets/d/1euiucRds_oSe0I14O2XghgPl1VTe50vYXZ0T00ZJdRo/edit?usp=sharing conforme sean calificadas. Buscar a los ayudantes para cualquier aclaración.
 
+La lista de Notebooks entregados como tarea es la siguiente:
+
+- Tarea01: Notebook 01
+- Tarea02: Notebook 02
+- Tarea03: Notebook 03
+- Tarea04: Notebook 06
+- Tarea05: Notebook 07
+- Tarea06: Notebook 08
+
+
 ## Bibliografía
 
 Se recomiendan ampliamente los libros:
