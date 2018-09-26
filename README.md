@@ -16,13 +16,13 @@ Pueden consultar las calificaciones de sus tareas en [Calificaciónes](https://d
 
 La lista de Notebooks entregados como tarea es la siguiente:
 
-- Tarea01: Notebook 01
-- Tarea02: Notebook 02
-- Tarea03: Notebook 03
-- Tarea04: Notebook 06
-- Tarea05: Notebook 07
-- Tarea06: Notebook 08. Se entregó el 24 de octubre.
-- Tarea07: Notebook 09. Se entrega el 01 de octubre.
+- Tarea01: [Notebook 01](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/01.%20Caminatas%20aleatorias.ipynb)
+- Tarea02: [Notebook 02](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/02.%20Caminatas%20aleatorias%20II.ipynb)
+- Tarea03: [Notebook 03](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/03.%20Caminatas%20aleatorias%20en%202D.ipynb)
+- Tarea04: [Notebook 06](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/06.%20Raices%20de%20funciones%20uni-dimensionales.ipynb)
+- Tarea05: [Notebook 07](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/07.%20El%20metodo%20de%20Newton.ipynb)
+- Tarea06: [Notebook 08](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/08.%20Diferencias%20finitas.ipynb). Se entregó el 24 de octubre.
+- Tarea07: [Notebook 09](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/09.%20Interpolacion.ipynb). Se entrega el 01 de octubre.
 
 
 ## Bibliografía
