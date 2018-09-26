@@ -21,7 +21,8 @@ La lista de Notebooks entregados como tarea es la siguiente:
 - Tarea03: Notebook 03
 - Tarea04: Notebook 06
 - Tarea05: Notebook 07
-- Tarea06: Notebook 08
+- Tarea06: Notebook 08. Se entregó el 24 de octubre.
+- Tarea07: Notebook 09. Se entrega el 01 de octubre.
 
 
 ## Bibliografía
