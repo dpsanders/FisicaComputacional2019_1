@@ -24,6 +24,7 @@ La lista de Notebooks entregados como tarea es la siguiente:
 - Tarea06: [Notebook 08](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/08.%20Diferencias%20finitas.ipynb). Se entregó el 24 de septiembre.
 - Tarea07: [Notebook 09](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/09.%20Interpolacion.ipynb). Se entrega el 01 de octubre.
 - Tarea08: [Notebook 10](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/10.%20Integracion%20numerica.ipynb). Se entrega el 10 de octubre.
+- Tarea09: [Notebook 11](https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/notebooks/11.%20Ecuaciones%20diferenciales%20ordinarias%20-%20metodo%20de%20Euler.ipynb). Se entrega el 22de octubre.
 
 
 ## Bibliografía
