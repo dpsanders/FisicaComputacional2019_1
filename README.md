@@ -10,7 +10,7 @@ Aquí subiremos los materiales del curso.
 El curso se basará en notebooks que se trabajarán en clase y en casa.
 La mayoría de los notebooks se entregarán como tareas.
 
-Evaluación: 50% tareas; 30% exámenes (probablemente tarea-examen); 20% proyecto final.
+Evaluación: 50% tareas; 30% exámenes (probablemente tarea-examen); 20% proyecto final (Pueden consultar la lista de proyectos elegidos [aqui]{https://github.com/dpsanders/FisicaComputacional2019_1/blob/master/Proyectos.md}.
 
 Pueden consultar las calificaciones de sus tareas en [Calificaciónes](https://docs.google.com/spreadsheets/d/1euiucRds_oSe0I14O2XghgPl1VTe50vYXZ0T00ZJdRo/edit?usp=sharing) conforme sean calificadas. Buscar a los ayudantes para cualquier aclaración.
 
