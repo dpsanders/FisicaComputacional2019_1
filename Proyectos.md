@@ -2,6 +2,10 @@ Proyectos elegidos hasta ahora:
 
 
 <ul>
+<li>Simulación de la propagación de una onda en medios no homogeneos.
+  <ul>Andrés Vega Flores, Amor Enitz Sosa Escalante
+  </ul></li><p></p>
+	
 <li>Péndulo doble.
   <ul>Carlos Cano Arista, Fernanda Ordoñez Jimenez
   </ul></li><p></p>
@@ -16,7 +20,7 @@ Proyectos elegidos hasta ahora:
   </ul></li><p></p>
   
 <li>Resolución de integrales utilizando el método de cuadratura de Gauss y comparación con otros métodos.
-	<ul>Jesús Falcón, Alberto Yamil
+	<ul>Jorge Luis Briseño, Eduardo Conde Juárez
   </ul></li><p></p>
   
 <li>Simulación sismológica.
