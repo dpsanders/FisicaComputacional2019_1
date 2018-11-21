@@ -35,7 +35,7 @@ Proyectos elegidos hasta ahora:
 	<ul>Gabriel Carranco
   </ul></li><p></p>
   
-<li>Método de relajación para la solución de la ecuación de Laplace.
+<li>Transformada de Radón.
 	<ul>Eugenio Galicia, Jorge Abel Mejía
   </ul></li><p></p>
   
