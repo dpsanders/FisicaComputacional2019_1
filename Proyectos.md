@@ -2,6 +2,10 @@ Proyectos elegidos hasta ahora:
 
 
 <ul>
+<li>Modelo de Fermi-Pasta-Ulam.
+  <ul>Mitzi Urquiza, Héctor Morales
+  </ul></li><p></p>
+	
 <li>Simulación de la propagación de una onda en medios no homogeneos.
   <ul>Andrés Vega Flores, Amor Enitz Sosa Escalante
   </ul></li><p></p>
