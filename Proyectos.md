@@ -2,6 +2,10 @@ Proyectos elegidos hasta ahora:
 
 
 <ul>
+<li>Simulación de Partícula Browniana en trampa óptica.
+  <ul>Mauricio Becerril, Esau Cervantes
+  </ul></li><p></p>
+
 <li>Modelo de Fermi-Pasta-Ulam.
   <ul>Mitzi Urquiza, Héctor Morales
   </ul></li><p></p>
