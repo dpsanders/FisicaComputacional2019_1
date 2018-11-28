@@ -8,7 +8,6 @@ Proyectos elegidos hasta ahora:
   Jueves 06 de diciembre
   </ul></li><p></p>
 
-<ul>
 <li>Simulación de Partícula Browniana en trampa óptica.
   <ul>Mauricio Becerril, Esau Cervantes
 
