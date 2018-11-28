@@ -7,7 +7,11 @@ Proyectos elegidos hasta ahora:
 
   Jueves 06 de diciembre
   </ul></li><p></p>
+<li>Transformada Rápida de Fourier
+  <ul>Oscar Márquez, Jazmín Garduño
 
+  Jueves 06 de diciembre
+  </ul></li><p></p>
 <li>Simulación de Partícula Browniana en trampa óptica.
   <ul>Mauricio Becerril, Esau Cervantes
 
@@ -102,7 +106,7 @@ Proyectos elegidos hasta ahora:
 <li>Geodésicas en Schwarzschild y precesión de Mercurio.
 	<ul>Enrique David Gúzman Ramírez
 
-  Miércoles 06 de diciembre
+  Miércoles 05 de diciembre
   </ul></li><p></p>
   
 <li>Vibración de una cuerda en un instrumentos musical.
